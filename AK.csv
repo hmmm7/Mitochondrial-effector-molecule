@@ -1,7 +1,0 @@
-molecule_chembl_id,canonical_smiles,target_pref_name,standard_type,standard_value,assay_description,bioactivity_class,assay_chembl_id
-CHEMBL3251357,CSc1nc2c(N)ncnc2n1[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,Adenylate kinase 1,IC50,5950000,Noncompetitive inhibition of Sprague-Dawley rat muscle adenylate kinase by Lineweaver-Burk plot analysis,inactive,CHEMBL3254976
-CHEMBL3251359,CCCSc1nc2c(N)ncnc2n1[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,Adenylate kinase 1,IC50,6150000,Noncompetitive inhibition of Sprague-Dawley rat muscle adenylate kinase by Lineweaver-Burk plot analysis,inactive,CHEMBL3254976
-CHEMBL2364580,CCCCSc1nc2c(N)ncnc2n1[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,Adenylate kinase 1,IC50,6200000,Noncompetitive inhibition of Sprague-Dawley rat muscle adenylate kinase by Lineweaver-Burk plot analysis,inactive,CHEMBL3254976
-CHEMBL3251365,CC(=O)NCCCCCCNc1ncnc2c1ncn2[C@@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O,Adenylate kinase 1,IC50,12900000,Noncompetitive inhibition of Sprague-Dawley rat muscle adenylate kinase by Lineweaver-Burk plot analysis,inactive,CHEMBL3254976
-CHEMBL519503,Nc1ncnc2c1nc(-c1ccc(P(=O)(O)O)o1)n2CCc1ccccc1,Adenylate kinase isoenzyme 1,IC50,500000,Inhibition of rabbit muscle adenylate kinase,inactive,CHEMBL981268
-CHEMBL482735,CC(C)(C)Cn1c(-c2ccc(P(=O)(O)O)o2)nc2c(N)ncnc21,Adenylate kinase isoenzyme 1,IC50,500000,Inhibition of rabbit muscle adenylate kinase,inactive,CHEMBL981268
