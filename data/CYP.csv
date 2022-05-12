@@ -1,0 +1,24 @@
+molecule_chembl_id,canonical_smiles,target_pref_name,standard_type,standard_value,assay_description,bioactivity_class,assay_chembl_id
+CHEMBL341591,CC12CCC(O)CC1=CCC1C2CCC2(C)C(CC3CN3)CCC12,Cytochrome P450 11A1,IC50,1000,Inhibition of P450 scc,active,CHEMBL762242
+CHEMBL39513,CCCCCN1C(=O)CCC(CC)(c2ccncc2)C1=O,Cytochrome P450 11A1,IC50,209000,"Inhibition of bovine desmolase, cytochrome P450 11A1",inactive,CHEMBL663676
+CHEMBL39661,CCCCCCCCN1C(=O)CCC(CC)(c2ccncc2)C1=O,Cytochrome P450 11A1,IC50,110000,"Inhibition of bovine desmolase, cytochrome P450 11A1",inactive,CHEMBL663676
+CHEMBL38550,CCCCCCCCCN1C(=O)CCC(CC)(c2ccncc2)C1=O,Cytochrome P450 11A1,IC50,175000,"Inhibition of bovine desmolase, cytochrome P450 11A1",inactive,CHEMBL663676
+CHEMBL38439,CCCCCCCN1C(=O)CCC(CC)(c2ccncc2)C1=O,Cytochrome P450 11A1,IC50,210000,"Inhibition of bovine desmolase, cytochrome P450 11A1",inactive,CHEMBL663676
+CHEMBL39840,CCCCCCCCCCN1C(=O)CCC(CC)(c2ccncc2)C1=O,Cytochrome P450 11A1,IC50,340000,"Inhibition of bovine desmolase, cytochrome P450 11A1",inactive,CHEMBL663676
+CHEMBL176452,C=CCN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,274000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL172263,CC(C)N1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,320000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL174308,CC(C)CN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,310000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL174407,CCCN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,328000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL368631,CC(C)(C)CN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,294000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL26651,CCCCCN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,170000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL369603,Nc1ccc(C23CC2C(=O)N(Cc2ccccc2)C3=O)cc1,Cytochrome P450 11A1,IC50,290000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL174909,CCCCN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,232000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL354401,CCN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,305000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL176539,C#CCN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,292000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL368732,CN1C(=O)C2CC2(c2ccc(N)cc2)C1=O,Cytochrome P450 11A1,IC50,460000,Inhibition of bovine adrenal cholesterol side chain cleavage(CSCC) cytochrome P450 11A1,inactive,CHEMBL815631
+CHEMBL70901,Nc1ccc(C2(C3CCCCC3)CCC(=O)NC2=O)cc1,Cytochrome P450 11A1,IC50,67000,Inhibition of bovine adrenal desmolase,inactive,CHEMBL662006
+CHEMBL2111947,C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@@]43C)[C@@H]1CC[C@@H]2[C@H]1CN1,Cytochrome P450 11A1,IC50,25000,Inhibition of P450 scc,intermediate,CHEMBL762242
+CHEMBL488,CCC1(c2ccc(N)cc2)CCC(=O)NC1=O,Cytochrome P450 11A1,IC50,30000,"Inhibition of bovine desmolase, cytochrome P450 11A1",intermediate,CHEMBL663676
+CHEMBL157101,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,Cytochrome P450 11A1,IC50,5400,Inhibition of cholesterol side chain cleavage cytochrome P450,intermediate,CHEMBL662513
+CHEMBL328863,CC(=O)N1CCN(c2ccc(OC[C@@H]3CO[C@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,Cytochrome P450 11A1,IC50,3920,Inhibition of cholesterol side chain cleavage cytochrome P450,intermediate,CHEMBL662513
+CHEMBL319160,CC(=O)N1CCN(c2ccc(OC[C@H]3CO[C@@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,Cytochrome P450 11A1,IC50,2950,Inhibition of cholesterol side chain cleavage cytochrome P450,intermediate,CHEMBL662513
