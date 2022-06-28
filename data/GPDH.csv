@@ -1,0 +1,17 @@
+molecule_chembl_id,canonical_smiles,target_pref_name,standard_type,standard_value,assay_description,bioactivity_class,assay_chembl_id
+CHEMBL378577,C=CC(=O)c1ccc(O)cc1,Glycerol-3-phosphate dehydrogenase,IC50,350,Inhibitory activity against SSADH,active,CHEMBL867028
+CHEMBL202132,OCc1ccc(O)cc1,Glycerol-4-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL202519,NCc1ccc(O)cc1,Glycerol-5-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL312311,CCC(=O)c1ccc(O)cc1,Glycerol-6-phosphate dehydrogenase,IC50,293000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL201083,CC(=O)c1ccc(O)cc1,Glycerol-7-phosphate dehydrogenase,IC50,166000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL542,Nc1ccc(C(=O)O)cc1,Glycerol-8-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL441343,O=C(O)c1ccc(O)cc1,Glycerol-9-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL274739,OCc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1,Glycerol-10-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL201358,O=Cc1ccc(O[C@@H]2O[C@H](CO)[C@@H](O)[C@@H](O)[C@H]2O)cc1,Glycerol-11-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL161598,COc1ccc(C=O)cc1,Glycerol-12-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL202440,COc1cc(/C=N/O)ccc1O,Glycerol-13-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL202611,O/N=C/c1ccc(O)cc1,Glycerol-14-phosphate dehydrogenase,IC50,1000000,Inhibitory activity against SSADH,inactive,CHEMBL867028
+CHEMBL55415,O=c1cc(-c2ccc(O)cc2)oc2cc(O)c(O)c(O)c12,Glycerol-15-phosphate dehydrogenase,IC50,7200000,Inhibition of SSADH (unknown origin),inactive,CHEMBL3367479
+CHEMBL14193,O=Cc1ccc(O)cc1,Glycerol-16-phosphate dehydrogenase,IC50,24700,Inhibitory activity against SSADH,intermediate,CHEMBL867028
+CHEMBL378361,O=Cc1ccc(O)c([N+](=O)[O-])c1,Glycerol-17-phosphate dehydrogenase,IC50,33100,Inhibitory activity against SSADH,intermediate,CHEMBL867028
+CHEMBL13883,COc1cc(C=O)ccc1O,Glycerol-18-phosphate dehydrogenase,IC50,15600,Inhibitory activity against SSADH,intermediate,CHEMBL867028
